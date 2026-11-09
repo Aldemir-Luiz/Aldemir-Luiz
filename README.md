@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00d4ff&height=180&section=header&text=Aldemir%20Neto&fontSize=42&fontAlignY=35&desc=Estudante%20de%20TI%20|%20Redes%20|%20Dev&descAlignY=55&descAlign=50" width="100%" />
+</div>
 
-<!--
-**Aldemir-Luiz/Aldemir-Luiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre Mim
+- 🎯 Focado em **Segurança da Informação** e **Redes de Computadores**
+- 🛠️ Desenvolvimento com **Python**, **Java-Script**, **Node.js** e automações
+- 🐧 Usuário
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tecnologias & Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 📊 Métricas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aldemir-Luiz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Aldemir-Luiz&theme=tokyonight&hide_border=true" width="48%" />
+</p>
