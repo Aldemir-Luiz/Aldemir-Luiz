@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00d4ff&height=180&section=header&text=Aldemir%20Neto&fontSize=42&fontAlignY=35&desc=Estudante%20de%20TI%20|%20Redes%20|%20Dev&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00d4ff&height=180&section=header&text=Aldemir%20Neto&fontSize=42&fontAlignY=35&desc=Segurança%20da%20Informação%20|%20Redes%20|%20Dev&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 ### 👨‍💻 Sobre Mim
 - 🎯 Focado em **Segurança da Informação** e **Redes de Computadores**
-- 🛠️ Desenvolvimento com **Python**, **Java-Script**, **Node.js** e automações
-- 🐧 Usuário
+- 🛠️ A desenvolver projetos com **Python**, **JavaScript** e **Node.js**
+- 🐧 A praticar comandos e ambiente **Linux**
+
 
 ---
 
@@ -21,6 +22,5 @@
 
 ### 📊 Métricas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aldemir-Luiz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Aldemir-Luiz&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Aldemir-Luiz&theme=tokyonight&hide_border=true" />
 </p>
