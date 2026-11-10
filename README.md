@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00d4ff&height=180&section=header&text=Aldemir%20Neto&fontSize=42&fontAlignY=35&desc=Segurança%20da%20Informação%20|%20Redes%20|%20Dev&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:1e293b&height=180&section=header&text=Aldemir%20Neto&fontSize=42&fontColor=00f2fe&fontAlignY=35&fontFamily=Montserrat&desc=Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20%7C%20Redes%20%7C%20Dev&descColor=00f2fe&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 ### 👨‍💻 Sobre Mim
