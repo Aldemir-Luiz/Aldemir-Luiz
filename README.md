@@ -3,11 +3,9 @@
 </div>
 
 ### 👨‍💻 Sobre Mim
-- 🎯 Focado em **Segurança da Informação** e **Redes de Computadores**
+- 🎓 Estudante de **Segurança da Informação** e técnico em **Redes de Computadores**
 - 🛠️ A desenvolver projetos com **Python**, **JavaScript** e **Node.js**
 - 🐧 A praticar comandos e ambiente **Linux**
-- 💻 cursando **Sistema de Informação**
-- 🛜 Estudante técnico de **Redes de computadores**
 
 ---
 
